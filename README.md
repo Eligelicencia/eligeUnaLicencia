@@ -6,7 +6,7 @@ Tal como "[Choosealicence.org](http://www.choosealicense.com)", pero en español
 
 ## Intro
 
-A lot of repositories on GitHub.com don't have a license. GitHub provides a license chooser, but if you don't know anything about licenses, how are you supposed to make an informed decision?
+Muchos repositorios en GitHub.com no tienen una licencia. GitHub proporciona un selector de licencias, pero si sabes nada acerca de las licencias, ¿cómo se supone que debes de tomar una decisión informada?
 
 [ChooseALicense.com](http://www.choosealicense.com "Choose A Licence website") is designed to help people make an informed decision about licenses by demystifying license choices through non-judgmental guidance.
 
