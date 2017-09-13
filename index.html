@@ -1,0 +1,77 @@
+---
+layout: default
+class: home
+hide_breadcrumbs: true
+title: Elige una licencia de código abierto
+permalink: /
+---
+
+<h2>
+  <span>{</span>
+  ¿Cuál de las siguientes opciones describe mejor tu situación?
+  <span>}</span>
+</h2>
+<ul class="triptych situations clearfix">
+  <li class="whatever">
+    <a href="licenses/mit">
+      <span class="triptych-sprite three-arrows"></span>
+      <h3>Quiero que sea simple y permisiva.</h3>
+    </a>
+    <p>
+      La <a href="licenses/mit">Licencia MIT</a> es una licencia permisiva que es corta y directa. Le permite a la gente hacer todo lo que quieran con su código, siempre y cuando te proporcionen la atribución de nuevo a ti y no te mantiene responsable.
+    </p>
+    <p>
+      {% include using-sentence.html license-id="mit" %}
+    </p>
+  </li>
+  <li class="patents">
+    <a href="licenses/apache-2.0/">
+      <span class="triptych-sprite lightbulb"></span>
+      <h3>Me preocupan las patentes</h3>
+    </a>
+    <p>
+      
+      La Licencia de <a href="licenses/apache-2.0/">Apache 2.0</a> es una licencia permisiva similar a la Licencia del MIT, pero también proporciona una concesión expresa de derechos de patente de los contribuyentes a los usuarios.
+    </p>
+    <p>
+      {% include using-sentence.html license-id="apache-2.0" %}
+    </p>
+  </li>
+  <li class="copyleft">
+    <a href="licenses/gpl-3.0/">
+      <span class="triptych-sprite circular"></span>
+      <h3>Me importa compartir mejoras.</h3>
+    </a>
+    <p>
+      La <a href="licenses/gpl-3.0/">GNU GPLv3</a> es una licencia de "copyleft" que requiere que cualquier persona que distribuya su código o un trabajo derivado haga que la fuente esté disponible bajo los mismos términos, y también proporciona una concesión expresa de derechos de patente de los contribuyentes a los usuarios.
+    </p>
+    <p>
+      {% include using-sentence.html license-id="gpl-3.0" %}
+    </p>
+  </li>
+</ul>
+<h2>
+  <span>{</span>
+  ¿Y si ninguna de estas aplican a mi situación?
+  <span>}</span>
+</h2>
+<ul class="triptych see-more clearfix">
+  <li>
+    <h3>Mi proyecto no es software</h3>
+    <p>
+      <a href="non-software">Hay una licencia para esto</a>.
+    </p>
+  </li>
+  <li>
+    <h3>Quiero más opciones</h3>
+    <p>
+      <a href="licenses">Más licencias disponibles</a>.
+    </p>
+  </li>
+  <li>
+    <h3>No quiero escoger una licencia...</h3>
+    <p>
+      <a href="no-license">Bueno, la verdad es que no tienes por que hacerlo</a>.
+    </p>
+  </li>
+</ul>
