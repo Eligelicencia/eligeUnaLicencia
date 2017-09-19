@@ -4,7 +4,7 @@
 
 Tal como "[Choosealicence.org](http://www.choosealicense.com)", pero en español ;)
 
-## Intro
+## Introduccion
 
 Muchos repositorios en GitHub.com no tienen una licencia. GitHub proporciona un selector de licencias, pero si sabes nada acerca de las licencias, ¿cómo se supone que debes de tomar una decisión informada?
 
