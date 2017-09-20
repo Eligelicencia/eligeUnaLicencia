@@ -4,7 +4,7 @@ description: Una guia practica y sin prejuicios para ayudarte a elegir una licen
 relative_permalinks: false
 markdown: kramdown
 url: "https://eligelicencia.github.io/eligeUnaLicencia/"
-baseurl: "/eligeUnaLicencia"
+baseurl: '/eligeUnaLicencia/'
 
 collections:
   licenses:
