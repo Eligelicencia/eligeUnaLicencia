@@ -2,7 +2,7 @@
 title: Elige una Licencia
 description: Una guia practica y sin prejuicios para ayudarte a elegir una licencia.
 markdown: kramdown
-baseurl: '/eligeUnaLicencia'
+baseurl: /eligeUnaLicencia
 
 collections:
   licenses:
