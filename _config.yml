@@ -42,6 +42,3 @@ plugins:
 
 sass:
     style: :compressed
-
-twitter:
-  username: "@github"
