@@ -15,13 +15,13 @@
     </div> <!-- /container -->
 
     {% if page.collection == "licenses" or page.class == "license-types" %}
-    <script src="/assets/vendor/jquery/jquery.min.js"></script>
-    <script src="/assets/vendor/qtip2/jquery.qtip.min.js"></script>
-    <script src="/assets/vendor/clipboard/dist/clipboard.min.js"></script>
+    <script src="{{ site.baseurl }}/assets/vendor/jquery/jquery.min.js"></script>
+    <script src="{{ site.baseurl }}/assets/vendor/qtip2/jquery.qtip.min.js"></script>
+    <script src="{{ site.baseurl }}/assets/vendor/clipboard/dist/clipboard.min.js"></script>
     <script>
       window.annotations = {{ site.data.rules | jsonify }};
     </script>
-    <script src="/assets/js/app.js"></script>
+    <script src="{{ site.baseurl }}/assets/js/app.js"></script>
     {% endif %}
 
 <!-- todo: insert our own analyitics code here...-->
