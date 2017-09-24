@@ -1,8 +1,10 @@
 ---
+title: CSS Stylesheet
 ---
 
-@import "/assets/vendor/normalize-css/normalize.css";
-@import "/assets/vendor/qtip2/jquery.qtip.min.css";
+@import "{{ site.baseurl }}/assets/vendor/normalize-css/normalize.css";
+@import "{{ site.baseurl }}/assets/vendor/qtip2/jquery.qtip.min.css";
+
 
 body {
   background: #fafafa;
