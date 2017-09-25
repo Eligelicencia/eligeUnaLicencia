@@ -1,4 +1,4 @@
-# Escogeunalicencia.com
+# EligeUnaLicencia.com
 
 [![Build Status](https://travis-ci.org/github/choosealicense.com.svg?branch=gh-pages)](https://travis-ci.org/github/choosealicense.com)
 
