@@ -15,13 +15,13 @@ using:
   - Rails: https://github.com/rails/rails/blob/master/activerecord/MIT-LICENSE
 
 permissions:
-  - Uso comercial 
+  - uso comercial 
   - modificaciones 
-  - distribución 
+  - distribucion 
   - uso privado
 
 conditions:
-  - Incluye derecos de autor
+  - Incluye derechos de autor
 
 limitations:
   - responsabilidad
