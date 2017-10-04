@@ -5,9 +5,9 @@ source: https://opensource.org/licenses/MIT
 featured: true
 hidden: false
 
-description: A short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code.
+description: A short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code. Una licencia simple y permisiva con condiciones que sólo requieren preservación de los derechos de autor y notificaciones de la licencia. Los trabajos licenciados, modificados, y trabajos mayores pueden ser distribuídos bajo diferentes términos y sin el código fuente.
 
-how: Create a text file (typically named LICENSE or LICENSE.txt) in the root of your source code and copy the text of the license into the file. Replace [year] with the current year and [fullname] with the name (or names) of the copyright holders.
+how: Create a text file (typically named LICENSE or LICENSE.txt) in the root of your source code and copy the text of the license into the file. Replace [year] with the current year and [fullname] with the name (or names) of the copyright holders. Crea un archivo de texto (normalmente nombrado LICENSE o LICENSE.txt) en la carpeta raíz del código fuente y copia el texto de la licencia en un archivo. Reemplaza [year](año) con el año actual y [fullname](nombre completo) con el nombre (o nombres) de las personas  de los derechos de autor.
 
 using:
   - jQuery: https://github.com/jquery/jquery/blob/master/LICENSE.txt
@@ -15,17 +15,17 @@ using:
   - Rails: https://github.com/rails/rails/blob/master/activerecord/MIT-LICENSE
 
 permissions:
-  - commercial-use
-  - modifications
-  - distribution
-  - private-use
+  - Uso comercial commercial-use
+  - modificaciones modifications
+  - distribución distribution
+  - uso privado private-use
 
 conditions:
-  - include-copyright
+  - Incluye derecos de autor include-copyright
 
 limitations:
-  - liability
-  - warranty
+  - liability responsabilidad
+  - warranty garantas
 
 ---
 
