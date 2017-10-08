@@ -1,5 +1,5 @@
 ---
-title: MIT License
+title: Licencia MIT
 spdx-id: MIT
 source: https://opensource.org/licenses/MIT
 featured: true
