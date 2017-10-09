@@ -6,11 +6,11 @@ source: http://www.apache.org/licenses/LICENSE-2.0.html
 featured: true
 hidden: false
 
-description: A permissive license whose main conditions require preservation of copyright and license notices. Contributors provide an express grant of patent rights. Licensed works, modifications, and larger works may be distributed under different terms and without source code.
+description: Licencia permisiva cuyas principales condiciones requieren la preservación de los derechos de autor y los avisos de licencia. Los colaboradores proporcionan una concesión expresa de derechos de patente. Las obras autorizadas, las modificaciones y las obras más grandes pueden distribuirse bajo diferentes términos y sin código fuente. A permissive license whose main conditions require preservation of copyright and license notices. Contributors provide an express grant of patent rights. Licensed works, modifications, and larger works may be distributed under different terms and without source code.
 
-how: Create a text file (typically named LICENSE or LICENSE.txt) in the root of your source code and copy the text of the license into the file.
+how: Crea un archivo de texto (normalmente con el nombre LICENSE o LICENSE.txt) en la raíz del código fuente y copia el texto de la licencia en dicho archivo. Create a text file (typically named LICENSE or LICENSE.txt) in the root of your source code and copy the text of the license into the file.
 
-note: The Apache Foundation recommends taking the additional step of adding a boilerplate notice to the header of each source file. You can find the notice at the very end of the license in the appendix.
+note: La Fundación Apache recomienda tomar el paso adicional de agregar una notificación a la cabecera de cada archivo fuente. Puede encontrar el aviso al final de la licencia en el apéndice. The Apache Foundation recommends taking the additional step of adding a boilerplate notice to the header of each source file. You can find the notice at the very end of the license in the appendix.
 
 using:
   - Android: https://github.com/android/platform_system_core/blob/master/NOTICE
