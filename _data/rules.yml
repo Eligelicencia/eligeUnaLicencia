@@ -1,53 +1,53 @@
 permissions:
-- description: This software and derivatives may be used for commercial purposes.
-  label: Commercial use
+- description: El software y sus derivados pueden ser usados para propósitos comerciales. This software and derivatives may be used for commercial purposes.
+  label: Uso comercial
   tag: commercial-use
-- description: This software may be modified.
-  label: Modification
+- description: Este software puede ser modificado. This software may be modified.
+  label: Modificaciones
   tag: modifications
-- description: This software may be distributed.
-  label: Distribution
+- description: Este software puede ser distribuído. This software may be distributed.
+  label: Distribución
   tag: distribution
-- description: This software may be used and modified in private.
-  label: Private use
+- description: Este software puede ser usado y modificado en privado. This software may be used and modified in private.
+  label: Uso privado
   tag: private-use
-- description: This license provides an express grant of patent rights from contributors.
-  label: Patent use
+- description: Esta licencia otorga una concesión expresa de los derechos de patente de los contribuyentes. This license provides an express grant of patent rights from contributors.
+  label: Uso de patente
   tag: patent-use
 
 conditions:
-- description: A copy of the license and copyright notice must be included with the software.
-  label: License and copyright notice
+- description: Se debe incluir una copia de la licencia y el aviso de copyright con el software. A copy of the license and copyright notice must be included with the software.
+  label: Licencia y aviso de copyright
   tag: include-copyright
-- description: Changes made to the code must be documented.
-  label: State changes
+- description: Los cambios realizados en el código deben ser documentados. Changes made to the code must be documented.
+  label: Documentación de cambios
   tag: document-changes
-- description: Source code must be made available when the software is distributed.
-  label: Disclose source
+- description: El código fuente debe estar disponible cuando se distribuye el software. Source code must be made available when the software is distributed.
+  label: Revelar código fuente
   tag: disclose-source
-- description: Users who interact with the software via network are given the right to receive a copy of the source code.
-  label: Network use is distribution
+- description: Los usuarios que interactúan con el software a través de la red tienen derecho a recibir una copia del código fuente. Users who interact with the software via network are given the right to receive a copy of the source code.
+  label: Usuarios de la red reciben copia. Network use is distribution
   tag: network-use-disclose
-- description: Modifications must be released under the same license when distributing the software. In some cases a similar or related license may be used.
-  label: Same license
+- description: Las modificaciones deben ser liberadas bajo la misma licencia al distribuir el software. En algunos casos se puede utilizar una licencia similar o relacionada. Modifications must be released under the same license when distributing the software. In some cases a similar or related license may be used.
+  label: Licencia similar
   tag: same-license
-- description: Modifications of existing files must be released under the same license when distributing the software. In some cases a similar or related license may be used.
-  label: Same license (file)
+- description: Las modificaciones de los archivos existentes deben publicarse bajo la misma licencia al distribuir el software. En algunos casos se puede utilizar una licencia similar o relacionada. Modifications of existing files must be released under the same license when distributing the software. In some cases a similar or related license may be used.
+  label: Licencia similar (archivos)
   tag: same-license--file
-- description: Modifications must be released under the same license when distributing the software. In some cases a similar or related license may be used, or this condition may not apply to works that use the software as a library.
-  label: Same license (library)
+- description: Las modificaciones deben ser liberadas bajo la misma licencia al distribuir el software. En algunos casos se puede utilizar una licencia similar o relacionada, o esta condición puede no aplicarse a las obras que usan el software como una librería. Modifications must be released under the same license when distributing the software. In some cases a similar or related license may be used, or this condition may not apply to works that use the software as a library.
+  label: Licencia similar (librería)
   tag: same-license--library
 
 limitations:
-- description: This license explicitly states that it does NOT grant trademark rights, even though licenses without such a statement probably do not grant any implicit trademark rights.
-  label: Trademark use
+- description: Esta licencia declara explícitamente que NO concede derechos de marca registrada, aunque las licencias sin dicha declaración probablemente no otorguen derechos de marcas implícitas. This license explicitly states that it does NOT grant trademark rights, even though licenses without such a statement probably do not grant any implicit trademark rights.
+  label: Derechos de marca registrada
   tag: trademark-use
-- description: This license includes a limitation of liability.
-  label: Liability
+- description: Esta licencia incluye una limitación de responsabilidad. This license includes a limitation of liability.
+  label: Responsabilidad
   tag: liability
-- description: This license explicitly states that it does NOT grant any rights in the patents of contributors.
-  label: Patent use
+- description: Esta licencia declara explícitamente que NO concede ningún derecho en las patentes a los contribuyentes. This license explicitly states that it does NOT grant any rights in the patents of contributors.
+  label: Uso de patente
   tag: patent-use
-- description: The license explicitly states that it does NOT provide any warranty.
-  label: Warranty
+- description: La licencia declara explícitamente que NO proporciona ninguna garantía. The license explicitly states that it does NOT provide any warranty.
+  label: Garantía
   tag: warranty
